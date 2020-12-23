@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "gitpet-aa028"
+  },
+  "targets": {
+    "gitpet-aa028": {
+      "hosting": {
+        "gitpet": [
+          "gitpet-aa028"
+        ]
+      }
+    }
   }
 }
